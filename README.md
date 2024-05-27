@@ -12,6 +12,6 @@ Hello, I'm Erdem. I am a second-year computer engineering student. I am constant
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-erdem-baltac%C4%B1-543612220/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdembaltaci&layout=compact&theme=radical)
 
 
