@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Erdem 👋
 
-<!--
-**erdembaltaci/erdembaltaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, I'm Erdem. I am a second-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I love walking and listening to music. I attach great importance to teamwork and social relations.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Fullstack Development, New software technologies and languages
+- 👯 Looking to collaborate on: Open source projects and group work
+- 💬 Ask me about: Software development, computer engineering, and technology
+- 📫 How to reach me: erdembaltaci5609@gmail.com
+- ⚡ Fun fact: I love walking and listening to music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-erdem-baltac%C4%B1-543612220/)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
