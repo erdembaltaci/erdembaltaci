@@ -5,6 +5,7 @@ Hello, I'm Erdem. I am a second-year computer engineering student. I am constant
 
 - 🌱 Currently learning: Fullstack Development, New software technologies and languages
 - 👯 Looking to collaborate on: Open source projects and group work
+- 🙋‍♂️ Languages: Turkish (Native) , English(B2)
 - 💬 Ask me about: Software development, computer engineering, and technology
 - 📫 How to reach me: erdembaltaci5609@gmail.com
 - ⚡ Fun fact: I love walking and listening to music.
@@ -12,7 +13,7 @@ Hello, I'm Erdem. I am a second-year computer engineering student. I am constant
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-erdem-baltac%C4%B1-543612220/)
 
-## Languages
+## Programming Languages
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
