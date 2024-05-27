@@ -1,7 +1,7 @@
 ## Hello, I'm Erdem 👋
 
 ## About Me
-Hello, I'm Erdem. I am a second-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I love walking and listening to music. I attach great importance to teamwork and social relations.
+Hello, I'm Erdem. I am a second-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I attach great importance to teamwork and social relations.
 
 - 🌱 Currently learning: Fullstack Development, New software technologies and languages
 - 👯 Looking to collaborate on: Open source projects and group work
