@@ -1,11 +1,11 @@
 ## Hello, I'm Erdem 👋
 
 ## About Me
-Hello, I'm Erdem. I am a second-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I attach great importance to teamwork and social relations.
+Hello, I'm Erdem. I am a third-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I attach great importance to teamwork and social relations.
 
-- 🌱 Currently learning: Fullstack Development, New software technologies and languages
+- 🌱 Currently learning: Fullstack Development,AI, New software technologies and languages
 - 👯 Looking to collaborate on: Open source projects and group work
-- 🙋‍♂️ Languages: Turkish (Native) , English(B2)
+- 🙋‍♂️ Languages: Turkish (Native) , English
 - 💬 Ask me about: Software development, computer engineering, and technology
 - 📫 How to reach me: erdembaltaci5609@gmail.com
 - ⚡ Fun fact: I love walking and listening to music.
@@ -22,6 +22,7 @@ Hello, I'm Erdem. I am a second-year computer engineering student. I am constant
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white)](https://www.python.com/)
 
 
 
