@@ -8,7 +8,7 @@ Hello, I'm Erdem. I am a third-year computer engineering student. I am constantl
 - 🙋‍♂️ Languages: Turkish (Native) , English
 - 💬 Ask me about: Software development, computer engineering, and technology
 - 📫 How to reach me: erdembaltaci5609@gmail.com
-- ⚡ Fun fact: I love walking and listening to music.
+- ⚡ Fun fact: I love walking,listening to music and coding.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-erdem-baltac%C4%B1-543612220/)
