@@ -1,13 +1,16 @@
 ## Hello, I'm Erdem 👋
 
 ## About Me
-Hello, I'm Erdem. I am a third-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I attach great importance to teamwork and social relations.
+As a 3rd-year Computer Engineering student, I actively develop myself in Backend Development, while
+closely following trends in Data Science and AI. I enhance my skills and expand my network by
+participating in competitions, hackathons, and various networking events. Passionate about innovation, I
+also follow developments in entrepreneurship and finance, seeking to develop innovative solutions
 
-- 🌱 Currently learning: Fullstack Development,AI, New software technologies and languages
+- 🌱 Currently learning: Backend Development,AI, New software technologies and languages
 - 👯 Looking to collaborate on: Open source projects and group work
 - 🙋‍♂️ Languages: Turkish (Native) , English
 - 💬 Ask me about: Software development, computer engineering, and technology
-- 📫 How to reach me: erdembaltaci5609@gmail.com
+- 📫 How to reach me: erdembaltaci5@gmail.com
 - ⚡ Fun fact: I love walking,listening to music and coding.
 
 ## Connect with me
