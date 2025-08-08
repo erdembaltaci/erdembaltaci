@@ -1,7 +1,7 @@
 ## Hello, I'm Erdem 👋
 
 ## About Me
-As a 3rd-year Computer Engineering student, I actively develop myself in Backend Development, while
+As a 4rd-year Computer Engineering student, I actively develop myself in Backend Development, while
 closely following trends in Data Science and AI. I enhance my skills and expand my network by
 participating in competitions, hackathons, and various networking events. Passionate about innovation, I
 also follow developments in entrepreneurship and finance, seeking to develop innovative solutions
