@@ -1,17 +1,44 @@
-## Merhaba, ben Erdem 👋
+# Merhaba, ben Erdem 👋
 
-## Hakkımda
-4. sınıf Bilgisayar Mühendisliği öğrencisi olarak Yazılım Geliştirici olma yolunda kendimi aktif olarak
-geliştiriyorum. Yarışmalara, hackathonlara ve çeşitli network etkinliklerine katılarak becerilerimi geliştiriyor
-ve ağımı büyütüyorum .Geliştirdiğim projeler , staj deneyimim ve katıldığım yarışmalar kapsamında takım
-çalışması , proje yönetimi , analiz ve sunum , yazılım geliştirme ve teknik yetkinlikler kapsamında deneyim
-ediniyor ve bilgi birikimimi kümülatif olarak artırıyorum.
+## 👨‍💻 Hakkımda
+4. sınıf **Bilgisayar Mühendisliği** öğrencisi olarak Yazılım Geliştirici olma yolunda kendimi aktif olarak geliştiriyorum.  
+Yarışmalara, hackathonlara ve çeşitli network etkinliklerine katılarak becerilerimi artırıyor ve ağımı genişletiyorum.  
 
+Geliştirdiğim projeler, staj deneyimlerim ve katıldığım yarışmalar sayesinde:  
+- Takım çalışması  
+- Proje yönetimi  
+- Analiz ve sunum  
+- Yazılım geliştirme  
+- Teknik yetkinlikler  
 
-Backend = RESTful API | C# | .Net | MsSQL | MySQL | SOLID Prensipleri | Clean Code
-Frontend = HTML | CSS | JavaScript | React
-Teknik Beceriler = Git-GitLab | Scrum | Agile Çevik Yazılım Yönetimi | Sunum Teknikleri | Takım Çalışması
-Yapay Zeka = Makine Öğrenmesi | Doğal Dil İşleme | Python
+konularında deneyim kazanıyor, bilgi birikimimi kümülatif olarak artırıyorum.  
 
-## Benimle bağlantı kurmak için
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/alierdembaltaci)
+---
+
+## ⚡ Teknolojiler & Beceriler
+
+**Backend:**  
+- RESTful API  
+- C# | .NET  
+- MsSQL | MySQL  
+- SOLID Prensipleri  
+- Clean Code  
+
+**Frontend:**  
+- HTML | CSS | JavaScript | React  
+
+**Teknik Beceriler:**  
+- Git & GitLab  
+- Scrum | Agile Çevik Yazılım Yönetimi  
+- Sunum Teknikleri  
+- Takım Çalışması  
+
+**Yapay Zeka:**  
+- Makine Öğrenmesi  
+- Doğal Dil İşleme (NLP)  
+- Python  
+
+---
+
+## 🌍 Benimle bağlantı kur
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alierdembaltaci)
