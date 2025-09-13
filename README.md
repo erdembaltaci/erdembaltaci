@@ -25,7 +25,7 @@ konularında deneyim kazanıyor, bilgi birikimimi kümülatif olarak artırıyor
 - Clean Code  
 
 **Frontend:**  
-- HTML | CSS | JavaScript | React  
+- HTML | CSS | JavaScript | React  | Next.js
 
 **Teknik Beceriler:**  
 - Git & GitLab  
