@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/erdembaltaci/erdembaltaci/blob/main/AL%C4%B0%20ERDEM%20BALTACI%20(1).png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/erdembaltaci/erdembaltaci/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdembaltaci&label=Profile%20views&color=0e75b6&style=flat" alt="erdembaltaci" /> </p>
 
