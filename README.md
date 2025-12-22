@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://github.com/erdembaltaci/erdembaltaci/blob/main/AL%C4%B0%20ERDEM%20BALTACI%20(1).png?raw=true" alt="Banner" width="100%">
 </p>
-<h1 align="center">I'm Ali Erdem Baltacı</h1>
-<h3 align="center">A passionate Software Developer from Turkiye</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdembaltaci&label=Profile%20views&color=0e75b6&style=flat" alt="erdembaltaci" /> </p>
 
 - 🔭 I’m currently working on [AI Integrated Pos Systems](https://github.com/erdembaltaci/AI_POS_INTEGRATION)
