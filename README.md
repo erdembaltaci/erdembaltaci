@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/erdembaltaci/erdembaltaci/blob/main/AL%C4%B0%20ERDEM%20BALTACI.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/erdembaltaci/erdembaltaci/blob/main/AL%C4%B0%20ERDEM%20BALTACI%20(1).png?raw=true" alt="Banner" width="100%">
 </p>
 <h1 align="center">I'm Ali Erdem Baltacı</h1>
 <h3 align="center">A passionate Software Developer from Turkiye</h3>
