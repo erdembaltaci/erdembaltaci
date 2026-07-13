@@ -3,7 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdembaltaci&label=Profile%20views&color=0e75b6&style=flat" alt="erdembaltaci" /> </p>
 
-- 🔭 I’m currently working on [AI Integrated Pos Systems](https://github.com/erdembaltaci/AI_POS_INTEGRATION)
+- 🔭 I’m currently working on [AI Integrated Pos Systems](https://github.com/erdembaltaci/XPos)
 
 - 🌱 I’m currently learning **Java Spring Boot , React Native , AI Agent**
 
